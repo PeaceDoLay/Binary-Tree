@@ -46,6 +46,7 @@ class Tree {
             } else {
                 add(root.right, newNode);
             }
+            System.out.println("dsjnajdksa");
         }
     }
 
